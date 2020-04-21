@@ -16,10 +16,6 @@
     position: absolute;
   }
 
-#proyects{
-    margin-top:1em;
-}
-
   .container,
   .ctproyects {
     transition: 1s;
@@ -583,4 +579,9 @@
     color: #2980b9;
     fill: #2980b9
   }
+
+
+#proyects{
+    margin-top:10em;
+}
   
