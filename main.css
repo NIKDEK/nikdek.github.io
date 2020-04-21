@@ -15,7 +15,11 @@
   svg {
     position: absolute;
   }
-  
+
+#proyects{
+    margin-top:1em;
+}
+
   .container,
   .ctproyects {
     transition: 1s;
